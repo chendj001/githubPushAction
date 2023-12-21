@@ -1,6 +1,6 @@
 ```bash
 - name: Deploy to GitHub Pages
-        uses: chendj001/githubPushAction@main
+        uses: chendj001/githubPushAction@master
         with:
           # 部署到 gh-pages 分支
           target_branch: gh-pages
